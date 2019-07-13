@@ -9,7 +9,7 @@ function App() {
   return (
     <Row className="App-Header">
       <Col>
-        <Row>         
+        <Row>          
           <Col md="12">
             <TopNavBar />
           </Col>
