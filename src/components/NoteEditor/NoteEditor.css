@@ -1,0 +1,9 @@
+.ckEditor {
+    color: black;
+    min-height: 100vh;
+}
+
+.ck-editor__editable_inline {
+    min-height: 80vh;
+    background-color:white;
+}
